@@ -1,1 +1,1 @@
-# Answer acception based on CodingFrenzy (CPE-Test)
+# CodingFrenzy Accepted Answers only(CPE-Test)
