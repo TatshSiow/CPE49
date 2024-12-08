@@ -1,2 +1,2 @@
-# UVA Solution for CodingFrenzy Accepted Answers only(CPE-Test)
-
+# UVA Solution for CodingFrenzy
+## Accepted Answers only(CPE-Test)
